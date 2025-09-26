@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url('bg2.jpg');
+    background-image: url('bg2.JPG');
     font-family: verdana ;
     line-height: 1.6;
     padding: auto;
@@ -161,3 +161,4 @@ text-area:focus {
     margin: auto;
     align-content: center;
 }
+
